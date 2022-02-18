@@ -1,9 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
-
-"TOAST_NOTIF" : false,
+"JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
 
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
@@ -17,8 +15,6 @@
 //     * Mode UNITY       Unity backup Startapp
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-//     * Untuk Native akan terganti menjadi banner jika tanpa id 
-
 
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
@@ -30,8 +26,18 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
+"STARAPPID" : "YOUR_APP_ID",
+
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
+"UNITY_TEST_MODE" : false,
+
+"APPLOVIN_BANNER_ID" : "ISIAN",
+"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -40,21 +46,14 @@
 "HPK_ADMOB4" : "telkomsel",
 "HPK_ADMOB5" : "donasi",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "Interstitial",
-"UNITY_GAME_ID" : "4082115",
-"UNITY_TEST_MODE" : false,
-
-"STARAPPID" : "201365479",
-
-"APPLOVIN_BANNER_ID" : "ISIAN",
-"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
-
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
 
 "BUTTON_RATING" : "RATING",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
