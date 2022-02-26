@@ -43,7 +43,7 @@
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "Interstitial",
 "UNITY_GAME_ID" : "4082115",
-"UNITY_TEST_MODE" : false,
+"UNITY_TEST_MODE" : true,
 
 "STARAPPID" : "201365479",
 
